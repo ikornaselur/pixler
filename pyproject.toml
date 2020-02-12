@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pixler"
-version = "0.1.1"
+version = "0.1.2"
 description = "Draw a pixel map with braille characters"
 authors = ["Axel <pixler@absalon.is>"]
 license = "MIT"
