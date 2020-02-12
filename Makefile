@@ -1,8 +1,8 @@
 mypy:
-	poetry run mypy pixler
+	poetry run mypy pixler tests
 
 flake8:
-	poetry run flake8 pixler
+	poetry run flake8 pixler tests
 
 lint: mypy flake8
 

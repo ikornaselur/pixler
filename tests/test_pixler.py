@@ -1,5 +1,6 @@
-from pixler import Pixler, OutOfBoundsException
 import pytest
+
+from pixler import OutOfBoundsException, Pixler
 
 
 def test_pixler_dot_1() -> None:
